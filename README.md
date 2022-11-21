@@ -1,3 +1,4 @@
+
 # 数字管养App版本更新记录
 
 ## 安卓和iOS（UDID已收录的）测试包下载地址：
@@ -7,7 +8,12 @@
 ### 🎉️ **发布记录**
 
 - v2.5.0, 2022-11-21 11:44:16
-![https://yfmingo.oss-cn-beijing.aliyuncs.com/images/qrcode_www.pgyer.com.png](https://yfmingo.oss-cn-beijing.aliyuncs.com/images/qrcode_www.pgyer.com.png)
+
+
+![](https://yfmingo.oss-cn-beijing.aliyuncs.com/images/qrcode_pgy.png)
+
+-----------
+
 
 
 ## change log
